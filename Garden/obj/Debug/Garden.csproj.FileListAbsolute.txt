@@ -1,0 +1,17 @@
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.csprojAssemblyReference.cache
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.ChildForm.resources
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.Properties.Resources.resources
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.csproj.GenerateResource.cache
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\Garden.exe.config
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\Garden.exe
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\Garden.pdb
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\GardenLibrary.dll
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\GardenLibrary.pdb
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.csproj.CopyComplete
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.exe
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.pdb
+C:\Users\Екатерина\source\repos\Garden\Garden\obj\Debug\Garden.ChildEdirForm.resources
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Екатерина\source\repos\Garden\Garden\bin\Debug\GardenLibrary.dll.config

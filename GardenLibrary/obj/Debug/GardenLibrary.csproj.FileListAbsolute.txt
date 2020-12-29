@@ -1,0 +1,7 @@
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\bin\Debug\GardenLibrary.dll
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\bin\Debug\GardenLibrary.pdb
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\obj\Debug\GardenLibrary.csprojAssemblyReference.cache
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\obj\Debug\GardenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\obj\Debug\GardenLibrary.dll
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\obj\Debug\GardenLibrary.pdb
+C:\Users\Екатерина\source\repos\Garden\GardenLibrary\bin\Debug\GardenLibrary.dll.config
